@@ -19,7 +19,7 @@
     "postinstall": "npm run lint:fix"
   },
   "build": {
-    "productName": "ark-server-direct-connect",
+    "productName": "我们这一家直连工具",
     "appId": "com.zimomo.ark-server-direct-connect",
     "directories": {
       "output": "build"
@@ -46,14 +46,13 @@
       "icon": "build/icons/icon.icns"
     },
     "win": {
-      "icon": "build/icons/icon.ico"
+      "icon": "static/icons/icon.ico"
     },
     "linux": {
       "icon": "build/icons"
     }
   },
   "dependencies": {
-    "ant-design-vue": "^1.7.7",
     "vue": "^2.5.16",
     "vue-electron": "^1.0.6"
   },
@@ -63,7 +62,6 @@
     "babel-eslint": "^8.2.3",
     "babel-loader": "^7.1.4",
     "babel-minify-webpack-plugin": "^0.3.1",
-    "babel-plugin-import": "^1.13.3",
     "babel-plugin-transform-runtime": "^6.23.0",
     "babel-preset-env": "^1.7.0",
     "babel-preset-stage-0": "^6.24.1",

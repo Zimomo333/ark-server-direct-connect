@@ -26,8 +26,5 @@
       ]
     }
   },
-  "plugins": [
-    "transform-runtime",
-    ["import", { "libraryName": "ant-design-vue", "libraryDirectory": "es", "style": "css" }]
-  ]
+  "plugins": ["transform-runtime"]
 }
