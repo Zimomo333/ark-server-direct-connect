@@ -72,6 +72,11 @@ export default {
           img: require('./assets/Crystal.jpg'),
           link: 'steam://connect/zimomo.hopto.org:37018'
         },
+        'LostIsland': {
+          name: '迷失岛',
+          img: require('./assets/LostIsland.jpg'),
+          link: 'steam://connect/zimomo.hopto.org:37022'
+        },
         'TheCenterPVP': {
           name: '中心岛PVP',
           img: require('./assets/TheCenter.jpg'),
