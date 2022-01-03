@@ -25,67 +25,62 @@ export default {
         'Ragnarok': {
           name: '仙境',
           img: require('./assets/Ragnarok.jpg'),
-          link: 'steam://connect/zimomo.hopto.org:27015'
+          link: 'steam://connect/zimomo.my.to:27015'
         },
         'TheIsland': {
           name: '孤岛',
           img: require('./assets/TheIsland.jpg'),
-          link: 'steam://connect/zimomo.hopto.org:27016'
+          link: 'steam://connect/zimomo.my.to:27016'
         },
         'TheCenter': {
           name: '中心岛',
           img: require('./assets/TheCenter.jpg'),
-          link: 'steam://connect/zimomo.hopto.org:27017'
+          link: 'steam://connect/zimomo.my.to:27017'
         },
         'Valguero': {
           name: '瓦尔盖罗',
           img: require('./assets/Valguero.jpg'),
-          link: 'steam://connect/zimomo.hopto.org:27018'
+          link: 'steam://connect/zimomo.my.to:27018'
         },
         'Extinction': {
           name: '灭绝',
           img: require('./assets/Extinction.jpg'),
-          link: 'steam://connect/zimomo.hopto.org:27019'
+          link: 'steam://connect/zimomo.my.to:27019'
         },
         'Aberration': {
           name: '畸变',
           img: require('./assets/Aberration.jpg'),
-          link: 'steam://connect/zimomo.hopto.org:37015'
+          link: 'steam://connect/zimomo.my.to:37015'
         },
         'ScorchedEarth': {
           name: '焦土',
           img: require('./assets/ScorchedEarth.jpg'),
-          link: 'steam://connect/zimomo.hopto.org:37016'
+          link: 'steam://connect/zimomo.my.to:37016'
         },
         'Genesis': {
           name: '创世纪',
           img: require('./assets/Genesis.jpg'),
-          link: 'steam://connect/zimomo.hopto.org:37017'
+          link: 'steam://connect/zimomo.my.to:37017'
         },
         'Gen2': {
           name: '创世纪2',
           img: require('./assets/Gen2.jpg'),
-          link: 'steam://connect/zimomo.hopto.org:37021'
+          link: 'steam://connect/zimomo.my.to:37021'
         },
         'Crystal': {
           name: '水晶岛',
           img: require('./assets/Crystal.jpg'),
-          link: 'steam://connect/zimomo.hopto.org:37018'
+          link: 'steam://connect/zimomo.my.to:37018'
         },
         'LostIsland': {
           name: '迷失岛',
           img: require('./assets/LostIsland.jpg'),
-          link: 'steam://connect/zimomo.hopto.org:37022'
-        },
-        'TheCenterPVP': {
-          name: '中心岛PVP',
-          img: require('./assets/TheCenter.jpg'),
-          link: 'steam://connect/zimomo.hopto.org:37019'
+          link: 'steam://connect/zimomo.my.to:37022'
         },
         'TheIslandPVP': {
           name: '孤岛PVP',
           img: require('./assets/TheIsland.jpg'),
-          link: 'steam://connect/zimomo.hopto.org:37020'
+          link: 'steam://connect/zimomo.my.to:37020'
         }
       }
     }
