@@ -77,6 +77,11 @@ export default {
           img: require('./assets/LostIsland.jpg'),
           link: 'steam://connect/zimomo.my.to:37022'
         },
+        'Fjordur': {
+          name: '维京',
+          img: require('./assets/Fjordur.jpg'),
+          link: 'steam://connect/zimomo.my.to:37023'
+        },
         'TheIslandPVP': {
           name: '孤岛PVP',
           img: require('./assets/TheIsland.jpg'),
